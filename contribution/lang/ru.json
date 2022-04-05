@@ -131,7 +131,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Вы нашли заблокированную сейф с цветной клавиатурой, вы должны разблокировать её, введя правильную последовательность цветов.",
+ 	 	 	 	 	"trans": "Вы нашли заблокированный сейф с цветной клавиатурой, чтобы разблокировать его, введите правильную последовательность цветов.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
@@ -145,16 +145,16 @@
  	 	 	 	 	"eng": "seconds"
  	 	 	 	},
  	 	 	 	"colorBox": {
- 	 	 	 	 	"trans": "Нажмите на этот цвет ниже",
+ 	 	 	 	 	"trans": "Нажмите на нижний цвет",
  	 	 	 	 	"eng": "Click on this color below"
  	 	 	 	},
  	 	 	 	"lose": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Ошибка не удалась",
+ 	 	 	 	 	 	"trans": "Дешифрование не выполнено",
  	 	 	 	 	 	"eng": "Decryption failed"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Нажмите на правильную последовательность цвета, чтобы разблокировать",
+ 	 	 	 	 	 	"trans": "Нажмите на правильную последовательность цветов, чтобы разблокировать",
  	 	 	 	 	 	"eng": "Click on the correct color sequence to unlock"
  	 	 	 	 	},
  	 	 	 	 	"button": {
@@ -307,11 +307,11 @@
  	 	 	 	"eng": "Links are not allowed"
  	 	 	},
  	 	 	"spamBlock": {
- 	 	 	 	"trans": "Пожалуйста, не отправляй бессмысленные сообщения, спамеры будут заблокированы.",
+ 	 	 	 	"trans": "Пожалуйста, не отправляй бессмысленные сообщения, спамеры и флудеры будут заблокированы.",
  	 	 	 	"eng": "Please do not send meaningless message, spams will be muted."
  	 	 	},
  	 	 	"repeatBlock": {
- 	 	 	 	"trans": "Пожалуйста, не отправляй одно и то же сообщение многократно, флудеры будут заблокированы.",
+ 	 	 	 	"trans": "Пожалуйста, не отправляй одно и то же сообщение многократно, спамеры и флудеры будут заблокированы.",
  	 	 	 	"eng": "Please do not send the same message repeatedly, spams will be muted."
  	 	 	},
  	 	 	"shortChatBlock": {
@@ -344,7 +344,7 @@
  	 	},
  	 	"chatPreview": {
  	 	 	"notConnected": {
- 	 	 	 	"trans": "Чат Система не подключена",
+ 	 	 	 	"trans": "Система чата не подключена",
  	 	 	 	"eng": "chat system not connected"
  	 	 	}
  	 	},
@@ -549,7 +549,7 @@
  	 	 	 	 	"eng": "Create Lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Пока нет общедоступной информации об этом предмете. Поделись знаниями?",
+ 	 	 	 	 	"trans": "Пока нет общедоступной информации об этом предмете, будь первым кто расскажет об этом предмете.",
  	 	 	 	 	"eng": "There is no community lore for this item yet, be the first to create one for it."
  	 	 	 	}
  	 	 	},
@@ -565,7 +565,7 @@
  	 	 	},
  	 	 	"editButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Отредактируй эту статью",
+ 	 	 	 	 	"trans": "отредактируй эту статью",
  	 	 	 	 	"eng": "edit this lore"
  	 	 	 	},
  	 	 	 	"description": {
@@ -627,12 +627,12 @@
  	 	},
  	 	"itemDetails": {
  	 	 	"quality": {
- 	 	 	 	"trans": "Качество",
+ 	 	 	 	"trans": "качество",
  	 	 	 	"eng": "quality"
  	 	 	},
  	 	 	"itemUpgradeButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Обновить",
+ 	 	 	 	 	"trans": "обновить",
  	 	 	 	 	"eng": "upgrade"
  	 	 	 	}
  	 	 	},
@@ -696,7 +696,7 @@
  	 	},
  	 	"notificationCenter": {
  	 	 	"deleteTip": {
- 	 	 	 	"trans": "Длинный Нажмите, чтобы удалить",
+ 	 	 	 	"trans": "Зажмите, чтобы удалить",
  	 	 	 	"eng": "Long press to delete"
  	 	 	}
  	 	},
