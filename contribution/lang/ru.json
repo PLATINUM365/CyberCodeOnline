@@ -696,7 +696,7 @@
  	 	},
  	 	"notificationCenter": {
  	 	 	"deleteTip": {
- 	 	 	 	"trans": "Длинный Нажмите, чтобы удалить",
+ 	 	 	 	"trans": "Удерживайте, чтобы удалить",
  	 	 	 	"eng": "Long press to delete"
  	 	 	}
  	 	},
